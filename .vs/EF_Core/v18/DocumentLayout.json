@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\migrations\\20251127051740_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:migrations\\20251127051740_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\migrations\\20251201113513_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:migrations\\20251201113513_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\migrations\\20251126173315_add_createdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:migrations\\20251126173315_add_createdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\migrations\\20251127033050_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:migrations\\20251127033050_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\rules\\convertors\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:rules\\convertors\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\pages\\user_profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\user_profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\pages\\users_role.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\users_role.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\rules\\validations\\phone_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:rules\\validations\\phone_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251203181338_Phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251203181338_Phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\pages\\add_user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\add_user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\pages\\add_user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\add_user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\pages\\users_role.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\users_role.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\pages\\view_role.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\view_role.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\pages\\view_role.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\view_role.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\mumlul\\desktop\\trpo_13\\ef_core_trpo_12\\models\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251127051740_Init2.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251127051740_Init2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251127051740_Init2.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251127051740_Init2.cs",
+              "RelativeToolTip": "Migrations\\20251127051740_Init2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:24:33.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251127033050_Init.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251127033050_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251127033050_Init.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251127033050_Init.cs",
+              "RelativeToolTip": "Migrations\\20251127033050_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:24:44.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251126173315_Add_Createdat.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251126173315_Add_Createdat.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251126173315_Add_Createdat.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251126173315_Add_Createdat.cs",
+              "RelativeToolTip": "Migrations\\20251126173315_Add_Createdat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:24:32.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251201113513_Home.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251201113513_Home.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251201113513_Home.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251201113513_Home.cs",
+              "RelativeToolTip": "Migrations\\20251201113513_Home.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:24:31.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Rules\\Convertors\\Phone.cs",
+              "RelativeDocumentMoniker": "Rules\\Convertors\\Phone.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Rules\\Convertors\\Phone.cs",
+              "RelativeToolTip": "Rules\\Convertors\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:17:22.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251203181338_Phone.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251203181338_Phone.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251203181338_Phone.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251203181338_Phone.cs",
+              "RelativeToolTip": "Migrations\\20251203181338_Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:13:38.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:13:08.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:13:01.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Phone_number.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Rules\\Validations\\Phone_number.cs",
+              "RelativeDocumentMoniker": "Rules\\Validations\\Phone_number.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Rules\\Validations\\Phone_number.cs",
+              "RelativeToolTip": "Rules\\Validations\\Phone_number.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:09:06.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User_Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\User_Profile.xaml",
+              "RelativeDocumentMoniker": "Pages\\User_Profile.xaml",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\User_Profile.xaml",
+              "RelativeToolTip": "Pages\\User_Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T18:07:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add_User.xaml",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\Add_User.xaml",
+              "RelativeDocumentMoniker": "Pages\\Add_User.xaml",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\Add_User.xaml",
+              "RelativeToolTip": "Pages\\Add_User.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T18:06:43.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Users_role.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\Users_role.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Users_role.xaml.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\Users_role.xaml.cs",
+              "RelativeToolTip": "Pages\\Users_role.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:02:14.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users_role.xaml",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\Users_role.xaml",
+              "RelativeDocumentMoniker": "Pages\\Users_role.xaml",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\Users_role.xaml",
+              "RelativeToolTip": "Pages\\Users_role.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T17:57:47.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\RoleService.cs",
+              "RelativeDocumentMoniker": "Models\\Service\\RoleService.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\RoleService.cs",
+              "RelativeToolTip": "Models\\Service\\RoleService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:32:41.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add_User.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\Add_User.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Add_User.xaml.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\Add_User.xaml.cs",
+              "RelativeToolTip": "Pages\\Add_User.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:21:27.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "View_Role.xaml",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\View_Role.xaml",
+              "RelativeDocumentMoniker": "Pages\\View_Role.xaml",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\View_Role.xaml",
+              "RelativeToolTip": "Pages\\View_Role.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T17:20:56.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "View_Role.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\View_Role.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\View_Role.xaml.cs",
+              "ToolTip": "C:\\Users\\mumlul\\Desktop\\trpo_13\\EF_Core_Trpo_12\\Pages\\View_Role.xaml.cs",
+              "RelativeToolTip": "Pages\\View_Role.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:19:06.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

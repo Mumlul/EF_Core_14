@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\group\\view_group.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\group\\view_group.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\group\\view_group.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\group\\view_group.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\view_role.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\view_role.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\add_user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\add_user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\view_role.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\view_role.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\add_user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\add_user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\models\\service\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\service\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\users_role.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\users_role.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\user_profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\user_profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\pages\\user_profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:pages\\user_profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\models\\service\\interesgroupuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\service\\interesgroupuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\models\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\models\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\service\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251204042735_InterestGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251204042735_InterestGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\models\\interestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\interestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\models\\userinterestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\userinterestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|c:\\users\\st310-07\\documents\\\u043F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\ef_core_trpo_12\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EEFE0-6D1B-40F9-B89B-877F7223F5A8}|EF_Core.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add_User.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Add_User.xaml",
+              "RelativeDocumentMoniker": "Pages\\Add_User.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Add_User.xaml",
+              "RelativeToolTip": "Pages\\Add_User.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T06:30:57.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View_Role.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\View_Role.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\View_Role.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\View_Role.xaml.cs",
+              "RelativeToolTip": "Pages\\View_Role.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:29:14.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add_User.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Add_User.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Add_User.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Add_User.xaml.cs",
+              "RelativeToolTip": "Pages\\Add_User.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:25:58.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View_Group.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Group\\View_Group.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Group\\View_Group.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Group\\View_Group.xaml.cs",
+              "RelativeToolTip": "Pages\\Group\\View_Group.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:05:22.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View_Group.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Group\\View_Group.xaml",
+              "RelativeDocumentMoniker": "Pages\\Group\\View_Group.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Group\\View_Group.xaml",
+              "RelativeToolTip": "Pages\\Group\\View_Group.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T06:05:00.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users_role.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Users_role.xaml",
+              "RelativeDocumentMoniker": "Pages\\Users_role.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Users_role.xaml",
+              "RelativeToolTip": "Pages\\Users_role.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T06:04:25.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View_Role.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\View_Role.xaml",
+              "RelativeDocumentMoniker": "Pages\\View_Role.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\View_Role.xaml",
+              "RelativeToolTip": "Pages\\View_Role.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T06:03:32.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Main.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Main.xaml.cs*",
+              "RelativeToolTip": "Pages\\Main.xaml.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:20:12.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Main.xaml",
+              "RelativeDocumentMoniker": "Pages\\Main.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\Main.xaml",
+              "RelativeToolTip": "Pages\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T05:19:44.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Models\\UserProfile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:53:19.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User_Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\User_Profile.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\User_Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\User_Profile.xaml.cs",
+              "RelativeToolTip": "Pages\\User_Profile.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:47:56.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User_Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\User_Profile.xaml",
+              "RelativeDocumentMoniker": "Pages\\User_Profile.xaml",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Pages\\User_Profile.xaml",
+              "RelativeToolTip": "Pages\\User_Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T04:47:37.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InteresGroupUserService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\InteresGroupUserService.cs",
+              "RelativeDocumentMoniker": "Models\\Service\\InteresGroupUserService.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\InteresGroupUserService.cs",
+              "RelativeToolTip": "Models\\Service\\InteresGroupUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:36:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\GroupService.cs",
+              "RelativeDocumentMoniker": "Models\\Service\\GroupService.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\GroupService.cs",
+              "RelativeToolTip": "Models\\Service\\GroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:29:18.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\RoleService.cs",
+              "RelativeDocumentMoniker": "Models\\Service\\RoleService.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\RoleService.cs",
+              "RelativeToolTip": "Models\\Service\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:29:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseDbService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\BaseDbService.cs",
+              "RelativeDocumentMoniker": "Models\\Service\\BaseDbService.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Service\\BaseDbService.cs",
+              "RelativeToolTip": "Models\\Service\\BaseDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:29:55.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251204042735_InterestGroup.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251204042735_InterestGroup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251204042735_InterestGroup.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Migrations\\20251204042735_InterestGroup.cs",
+              "RelativeToolTip": "Migrations\\20251204042735_InterestGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:27:35.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "Models\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwDwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:11:39.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserInterestGroup.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\UserInterestGroup.cs",
+              "RelativeDocumentMoniker": "Models\\UserInterestGroup.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\UserInterestGroup.cs",
+              "RelativeToolTip": "Models\\UserInterestGroup.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBcAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T03:59:33.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T03:57:39.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InterestGroup.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\InterestGroup.cs",
+              "RelativeDocumentMoniker": "Models\\InterestGroup.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Documents\\\u041F\u043B\u043E\u0441\u043A\u0438\u0445\\trpo_13\\EF_Core_Trpo_12\\Models\\InterestGroup.cs",
+              "RelativeToolTip": "Models\\InterestGroup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T03:54:52.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

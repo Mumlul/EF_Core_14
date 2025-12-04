@@ -1,0 +1,111 @@
+﻿<Page x:Class="EF_Core.Pages.Group.InfoGroup"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EF_Core.Pages.Group"
+      xmlns:validations="clr-namespace:EF_Core.Rules.Validations"
+      xmlns:convertors="clr-namespace:EF_Core.Rules.Convertors"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InfoGroup"
+      Background="White"
+      >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel>
+                <StackPanel>
+                    <Label>Название группы</Label>
+                    <TextBox x:Name="Title">
+                        <TextBox.Text>
+                            <Binding Path="Title" UpdateSourceTrigger="PropertyChanged">
+                                <Binding.ValidationRules>
+                                    <validations:Empty/>
+                                </Binding.ValidationRules>
+                            </Binding>
+                        </TextBox.Text>
+                    </TextBox>
+                    <ItemsControl ItemsSource="{Binding ElementName=Title,Path=(Validation.Errors)}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding ErrorContent}"/>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </StackPanel>
+
+                <StackPanel>
+                    <Label>Описание</Label>
+                    <TextBox x:Name="Description">
+                        <TextBox.Text>
+                            <Binding Path="Description" UpdateSourceTrigger="PropertyChanged">
+                                <Binding.ValidationRules>
+                                    <validations:Empty/>
+                                </Binding.ValidationRules>
+                            </Binding>
+                        </TextBox.Text>
+                    </TextBox>
+                    <ItemsControl ItemsSource="{Binding ElementName=Description,Path=(Validation.Errors)}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding ErrorContent}"/>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </StackPanel>
+
+            </StackPanel>
+
+
+
+            <ListView Grid.Column="1" ItemsSource="{Binding UserInterestGroup}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <Label>Имя</Label>
+                            <TextBlock Text="{Binding User.Name}"/>
+                            <Label>Дата вступления</Label>
+                            <TextBlock Text="{Binding JoinedAt}"/>
+                            <Label>Модератор</Label>
+                            <TextBlock x:Name="Moderator">
+                                <TextBlock.Text>
+                                    <Binding Path="IsModerator" UpdateSourceTrigger="PropertyChanged">
+                                        <Binding.Converter>
+                                            <convertors:Moderator/>
+                                        </Binding.Converter>
+                                    </Binding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+
+        <StackPanel Style="{StaticResource Button_stack}" Grid.Row="2" Grid.Column="1">
+            <Button Content="Сохранить" Click="Save_cahnfes"/>
+            <Separator Width="10" Visibility="Hidden"/>
+            <Button Content="Назад" Click="Go_back"/>
+        </StackPanel>
+        
+    </Grid>
+</Page>

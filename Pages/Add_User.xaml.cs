@@ -73,5 +73,10 @@ namespace EF_Core.Pages
             NavigationService.Navigate(new User_Profile(_user));
         }
 
+        private void Add_Group(object sender,RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new AddUserGroup(_user));
+        }
+
     }
 }

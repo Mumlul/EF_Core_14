@@ -117,7 +117,7 @@ namespace EF_Core.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedAt = new DateTime(2025, 12, 4, 0, 0, 0, 0, DateTimeKind.Local),
+                            CreatedAt = new DateTime(2025, 12, 5, 0, 0, 0, 0, DateTimeKind.Local),
                             Email = "a.ploskikh@list.ru",
                             Login = "asd",
                             Name = "Sasha",

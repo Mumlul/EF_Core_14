@@ -10,7 +10,6 @@ namespace EF_Core.Models.Service
     public  class InteresGroupUserService
     {
         private readonly AppDbContext _db = BaseDbService.Instance.Context;
-
         public void Add(UserInterestGroup user_group)
         {
             var _user_group=new UserInterestGroup
@@ -23,5 +22,6 @@ namespace EF_Core.Models.Service
             _db.Add(_user_group);
             _db.SaveChanges();
         }
+
     }
 }

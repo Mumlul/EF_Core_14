@@ -24,31 +24,37 @@ namespace EF_Core.Pages.Group
     public partial class View_Group :Page
     {
         GroupService _service = new();
-        InterestGroup group = new();
-        InterestGroup? selected { get; set; } = null;
+        InterestGroup? group { get; set; } = new();
+        public InterestGroup? selected { get; set; } = null;
 
-        bool isEdit = false;
-
-        public View_Group(InterestGroup? _group=null)
+        public View_Group()
         {
             InitializeComponent();
-            if(_group != null ) 
-            {
-                group = _group;
-                isEdit = true;
-            }
-            DataContext = group;
+            DataContext = this;
+            Add_group.DataContext = group;
+            //Add_group.DataContext= group;
         }
 
         private void Add_Group(object sender, RoutedEventArgs e)
         {
-            if(isEdit) _service.Commit();
-            else _service.Add(group);
+            _service.Add(group);
             _service.GetAll();
         }
 
-        private void Edit(object sender,RoutedEventArgs e)
+        private void Edit(object sender, RoutedEventArgs e)
         {
+            NavigationService.Navigate(new InfoGroup(selected));
+        }
+
+        private void Delete_group(object sender, RoutedEventArgs e)
+        {
+            if (selected != null) _service.Remove(selected);
+            else MessageBox.Show("Выберите группу");
+        }
+
+        private void Go_back(object sender, RoutedEventArgs e)
+        {
+            NavigationService.GoBack();
         }
     }
 }

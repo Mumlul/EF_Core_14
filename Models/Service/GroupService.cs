@@ -12,7 +12,7 @@ namespace EF_Core.Models.Service
     {
         private readonly AppDbContext _db = BaseDbService.Instance.Context;
 
-        public ObservableCollection<InterestGroup> Groups { get; set; } = new();
+        public static ObservableCollection<InterestGroup> Groups { get; set; } = new();
         public GroupService() { GetAll(); }
         public int Commit() => _db.SaveChanges();
         public void GetAll()
@@ -42,6 +42,18 @@ namespace EF_Core.Models.Service
                     Groups.Remove(group);
         }
 
-        
+        public void LoadRelation(InterestGroup group, string relation)
+        {
+            var entry = _db.Entry(group);
+            var navigation = entry.Metadata.FindNavigation(relation)
+                ?? throw new InvalidOperationException($"Navigation '{relation}' not found");
+
+            if (navigation.IsCollection)
+                entry.Collection(relation).Load();
+            else
+                entry.Reference(relation).Load();
+        }
+
+
     }
 }

@@ -52,6 +52,20 @@ namespace EF_Core.Models.Service
                 Users.Add(user);
             }
         }
-        
+
+        public void LoadGrups(User user)
+        {
+            var groups = _db.UserInterestGroups
+                 .Include(uig => uig.InterestGroup)
+                 .Where(uig => uig.Userid == user.Id)
+                 .ToList();
+            user.InterestGroups.Clear();
+
+            foreach (var group in groups)
+            {
+                user.InterestGroups.Add(group);
+            }
+        }
+
     }
 }

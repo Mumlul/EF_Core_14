@@ -32,6 +32,7 @@
 
         <StackPanel x:Name="Sidebar" Grid.Row="1" Visibility="Visible" HorizontalAlignment="Center">
             <TextBlock  Text="Профиль" MouseDown="View_Profile"/>
+            <TextBlock  Text="Группы" MouseDown="Add_Group"/>
         </StackPanel>
 
         <StackPanel Grid.Row="1" Grid.Column="1">

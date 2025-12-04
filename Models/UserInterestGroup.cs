@@ -12,8 +12,8 @@ namespace EF_Core.Models
         #region Private 
         private int _userid;
         private int _iterestgroupid;
-        private DateTime _joinedat;
-        private bool _ismoderator;
+        private DateTime _joinedat=DateTime.Today;
+        private bool _ismoderator=false;
         private User? _user;
         InterestGroup? _interesetgroup;
         #endregion

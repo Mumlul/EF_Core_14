@@ -33,24 +33,27 @@
                 <ColumnDefinition Width="2*"/>
             </Grid.ColumnDefinitions>
 
-            <ListView ItemsSource="{Binding Source={StaticResource group_Service},Path=Groups}"
-                      SelectedItem="{Binding selected,UpdateSourceTrigger=PropertyChanged}"
-                      >
+            <ListView ItemsSource="{Binding Source={StaticResource group_Service},Path=Groups,UpdateSourceTrigger=PropertyChanged}"
+              SelectedItem="{Binding selected,UpdateSourceTrigger=PropertyChanged}"
+              MouseDoubleClick="Edit"
+              >
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <TextBlock>
-                            <Run Text="{Binding Title}"/>
+                    <Run Text="{Binding Title}"/>
                         </TextBlock>
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
 
-            <StackPanel Grid.Column="1">
+            <StackPanel Grid.Column="1" Name="Add_group">
+                <Label>Название группы</Label>
                 <TextBox  Name="Title">
                     <TextBox.Text>
                         <Binding Path="Title" UpdateSourceTrigger="PropertyChanged">
                             <Binding.ValidationRules>
                                 <validations:Empty/>
+                                <validations:Group/>
                             </Binding.ValidationRules>
                         </Binding>
                     </TextBox.Text>
@@ -62,16 +65,33 @@
                         </DataTemplate>
                     </ItemsControl.ItemTemplate>
                 </ItemsControl>
+                <Label>Описание группы</Label>
+                <TextBox x:Name="Description">
+                    <TextBox.Text>
+                        <Binding Path="Description" UpdateSourceTrigger="PropertyChanged" >
+                            <Binding.ValidationRules>
+                                <validations:Empty/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+                <ItemsControl ItemsSource="{Binding ElementName=Description,Path=(Validation.Errors)}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding ErrorContent}"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
             </StackPanel>
         </Grid>
 
         <StackPanel Grid.Row="2" Grid.Column="1" Style="{StaticResource Button_stack}">
-            <Button Content="Добавить"/>
+            <Button Content="Добавить" Click="Add_Group"/>
             <Separator Width="10" Visibility="Hidden"/>
-            <Button Content="Удалить"/>
+            <Button Content="Удалить" Click="Delete_group"/>
             <Separator Width="10" Visibility="Hidden"/>
-            <Button Content="Назад"/>
-
+            <Button Content="Назад" Click="Go_back"/>
         </StackPanel>
     </Grid>
 </Page>
